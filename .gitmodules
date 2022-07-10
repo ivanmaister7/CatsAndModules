@@ -1,0 +1,3 @@
+[submodule "Networkings"]
+	path = Networkings
+	url = https://github.com/ivanmaister7/Networking
