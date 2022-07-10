@@ -1,3 +1,5 @@
 [submodule "Networkings"]
 	path = Networkings
 	url = https://github.com/ivanmaister7/Networking
+[submodule "Networking"]
+	url = https://github.com/ivanmaister7/Networking
